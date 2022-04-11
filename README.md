@@ -4,9 +4,12 @@ Downloads audio from a YouTube video and uses Spleeter to split it into multi tr
 Multi tracks can then be loaded in a DAW and used to create a cover.
 
 Example Usage:
+```
 python3 coverprep.py -u https://youtu.be/dQw4w9WgXcQ -o Example
+```
 
 Example Output:
+```
 Downloading...
 
 [youtube] dQw4w9WgXcQ: Downloading webpage
@@ -21,3 +24,4 @@ INFO:spleeter:File Example/Example/vocals.wav written succesfully
 INFO:spleeter:File Example/Example/drums.wav written succesfully
 INFO:spleeter:File Example/Example/bass.wav written succesfully
 INFO:spleeter:File Example/Example/other.wav written succesfully
+```
