@@ -3,6 +3,17 @@
 Downloads audio from a YouTube video and uses Spleeter to split it into multi tracks.
 Multi tracks can then be loaded in a DAW and used to create a cover.
 
+Dependencies:
+```
+YouTube-DL
+Spleeter
+```
+
+Installation:
+```
+pip3 install youtube-dl spleeter
+```
+
 Example Usage:
 ```
 python3 coverprep.py -u https://youtu.be/dQw4w9WgXcQ -o Example
