@@ -1,4 +1,4 @@
-# coverprep
+# Cover Prep
 
 Downloads audio from a YouTube video and uses Spleeter to split it into multi tracks.
 Multi tracks can then be loaded in a DAW and used to create a cover.
