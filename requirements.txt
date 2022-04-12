@@ -1,0 +1,2 @@
+youtube-dl==2021.12.17
+spleeter==2.3.0
