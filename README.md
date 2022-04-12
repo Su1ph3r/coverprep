@@ -13,6 +13,10 @@ Installation:
 ```
 pip3 install youtube-dl spleeter
 ```
+OR
+```
+pip3 install -r requirements.txt
+```
 
 Example Usage:
 ```
